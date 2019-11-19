@@ -1,0 +1,16 @@
+{
+    "name": "icarus/consistent-hash",
+    "description": "a simple consistenHash demo",
+    "authors": [
+        {
+            "name": "9ch",
+            "email": "ontheway1024@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Icarus\\ConsistentHash\\": "src/"
+        }
+    }
+}
